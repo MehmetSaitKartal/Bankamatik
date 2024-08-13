@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\Bankamatik\Bankamatik\bin\Debug\net8.0\Bankamatik.exe
+C:\Users\User\source\repos\Bankamatik\Bankamatik\bin\Debug\net8.0\Bankamatik.deps.json
+C:\Users\User\source\repos\Bankamatik\Bankamatik\bin\Debug\net8.0\Bankamatik.runtimeconfig.json
+C:\Users\User\source\repos\Bankamatik\Bankamatik\bin\Debug\net8.0\Bankamatik.dll
+C:\Users\User\source\repos\Bankamatik\Bankamatik\bin\Debug\net8.0\Bankamatik.pdb
+C:\Users\User\source\repos\Bankamatik\Bankamatik\obj\Debug\net8.0\Bankamatik.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Bankamatik\Bankamatik\obj\Debug\net8.0\Bankamatik.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Bankamatik\Bankamatik\obj\Debug\net8.0\Bankamatik.AssemblyInfo.cs
+C:\Users\User\source\repos\Bankamatik\Bankamatik\obj\Debug\net8.0\Bankamatik.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Bankamatik\Bankamatik\obj\Debug\net8.0\Bankamatik.dll
+C:\Users\User\source\repos\Bankamatik\Bankamatik\obj\Debug\net8.0\refint\Bankamatik.dll
+C:\Users\User\source\repos\Bankamatik\Bankamatik\obj\Debug\net8.0\Bankamatik.pdb
+C:\Users\User\source\repos\Bankamatik\Bankamatik\obj\Debug\net8.0\Bankamatik.genruntimeconfig.cache
+C:\Users\User\source\repos\Bankamatik\Bankamatik\obj\Debug\net8.0\ref\Bankamatik.dll
