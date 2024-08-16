@@ -59,6 +59,7 @@ while (hak > 0)
     }
 }
 Console.WriteLine("Deneme Hakkınız Kalmadı,Sistemden Atıldınız");
+return;
 KartMenü:
 while (true)
 {
