@@ -1,7 +1,3 @@
-﻿using System;
-using System.ComponentModel.Design;
-using System.Diagnostics.Tracing;
-
 int bakiye = 2500;
 string sifre = "ab18";
 string Kadı = "admin";
